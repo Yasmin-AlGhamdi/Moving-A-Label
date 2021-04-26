@@ -1,0 +1,15 @@
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\bin\Debug\netcoreapp3.1\MovingAText.exe
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\bin\Debug\netcoreapp3.1\MovingAText.deps.json
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\bin\Debug\netcoreapp3.1\MovingAText.runtimeconfig.json
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\bin\Debug\netcoreapp3.1\MovingAText.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\bin\Debug\netcoreapp3.1\MovingAText.dll
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\bin\Debug\netcoreapp3.1\MovingAText.pdb
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\obj\Debug\netcoreapp3.1\MovingAText.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\obj\Debug\netcoreapp3.1\MovingAText.Form1.resources
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\obj\Debug\netcoreapp3.1\MovingAText.csproj.GenerateResource.cache
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\obj\Debug\netcoreapp3.1\MovingAText.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\obj\Debug\netcoreapp3.1\MovingAText.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\obj\Debug\netcoreapp3.1\MovingAText.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\obj\Debug\netcoreapp3.1\MovingAText.dll
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\obj\Debug\netcoreapp3.1\MovingAText.pdb
+C:\Users\Yasmin\source\repos\MovingAText\MovingAText\obj\Debug\netcoreapp3.1\MovingAText.genruntimeconfig.cache
